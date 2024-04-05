@@ -1,0 +1,52 @@
+.Nav {
+  background-color:darkblue;
+  font-size: 22px;
+  text-align: end;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.Nav ul li {
+  display: inline;
+}
+.Nav ul li a {
+  color:white;
+  text-decoration: none;
+  padding: 14px 20px;
+  justify-content: space-between;
+}
+.Form1{
+  border: 1px solid black;
+  width: 400px;
+  margin: left;
+  
+}
+
+.Form2{
+  border: 1px solid black;
+  width: 400px;
+  margin: left;
+}
+.form-group {
+  margin-bottom: 20px;
+  align-items: center;
+  margin: left;
+ 
+}
+button {
+  border-radius: 20px;
+  height:40px;
+  width: 100px;
+  align-items: center;
+  font-size: 15px;
+  
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
